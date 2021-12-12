@@ -559,6 +559,10 @@ a {
   box-shadow: 0 0 0 3px #666;
   border-radius: 5px;
 }
+.nav__brand {
+  transform: translateY(5px);
+  width: 150px;
+}
 @media screen and (min-width: 768px) {
   .nav__toggler {
     display: none;
